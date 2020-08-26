@@ -1,0 +1,3 @@
+[submodule "proto-dfs"]
+	path = proto-dfs
+	url = https://github.com/dfsDAO/proto-dfs.git
